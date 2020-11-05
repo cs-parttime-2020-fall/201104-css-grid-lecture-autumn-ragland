@@ -14,3 +14,27 @@ body {
     border : 4px solid black;
     padding : 1%;
 }
+
+header {
+    background-color: red;
+}
+
+#leftDiv {
+    background-color: orange;
+}
+
+#rightDiv {
+    background-color: yellow;
+}
+
+#sectionOne {
+    background-color: green;
+}
+
+#sectionTwo {
+    background-color: blue;
+}
+
+footer {
+    background-color: purple;
+}
